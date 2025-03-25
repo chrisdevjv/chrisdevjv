@@ -1,8 +1,11 @@
 ## Olá, eu sou Christopher (chrisdevjv) 👋
-
+Sou um estudante de Análise e Desenvolvimento de Sistemas que gosta muito de tecnologia📱, programação🖥️ e videogames🕹️
 
 ### Habilidades e Especialidades
-
+*Python, Java
+*API's REST
+*Desenvolvimento Web, Mobile e Desktop
+*Linux
 
 ### Estatísticas no GitHub
 
