@@ -1,6 +1,9 @@
 ## Olá, eu sou Christopher (chrisdevjv) 👋
 
 
+### Habilidades e Especialidades
+
+
 ### Estatísticas no GitHub
 
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=chrisdevjv&show_icons=true&theme=dark)
