@@ -2,10 +2,10 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas fascinado por tecnologia📱, programação🖥️ e videogames🕹️
 
 ### Habilidades e Especialidades
-*Python, Java
-*API's REST
-*Desenvolvimento Web, Mobile e Desktop
-*Linux
+* Python, Java
+* API's REST
+* Desenvolvimento Web, Mobile e Desktop
+* Linux
 
 ### Estatísticas no GitHub
 
