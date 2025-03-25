@@ -1,5 +1,5 @@
 ## Olá, eu sou Christopher (chrisdevjv) 👋
-Sou um estudante de Análise e Desenvolvimento de Sistemas que gosta muito de tecnologia📱, programação🖥️ e videogames🕹️
+Sou um estudante de Análise e Desenvolvimento de Sistemas fascinado por tecnologia📱, programação🖥️ e videogames🕹️
 
 ### Habilidades e Especialidades
 *Python, Java
