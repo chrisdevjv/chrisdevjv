@@ -19,9 +19,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas fascinado por tecnolo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisdevjv&repo=jogoDaVelha)](https://github.com/chrisdevjv/jogoDaVelha)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisdevjv&repo=netflix-clone)](https://github.com/chrisdevjv/netflix-clone)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisdevjv&repo=python_password_generator)](https://github.com/chrisdevjv/python_password_generator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisdevjv&repo=netflix-clone)](https://github.com/chrisdevjv/netflix-clone)
 
 
 
