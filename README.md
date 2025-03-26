@@ -17,7 +17,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas fascinado por tecnolo
 
 ### Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisdevjv&repo=github-readme-stats)](https://github.com/chrisdevjv/jogoDaVelha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisdevjv&repo=jogoDaVelha)](https://github.com/chrisdevjv/jogoDaVelha)
 <!--
 **chrisdevjv/chrisdevjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
